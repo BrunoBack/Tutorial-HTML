@@ -7,7 +7,7 @@ Este é um tutorial de HTML criado pelo desenvolvedor Bruno Back
 
 ##
 ### 💬 Introdução
-Neste tutorial iremos aprender a linguagem de marcação HTML (HyperText Markup Language) iremos utilizar o site W3Schools como referências e nos auxiliar no desenvolvimento de uma página HTML, neste tutorial iremos ver de uma maneira breve o esqueleto básico para uma página simples.
+Neste tutorial iremos aprender a linguagem de marcação HTML (HyperText Markup Language) iremos utilizar o site W3Schools como referências e nos auxiliar no desenvolvimento de uma página HTML, neste tutorial iremos ver de uma maneira breve do esqueleto básico para cirar uma página simples.
 ##
 ### ✔ Primeiramente veremos o que é HTML
 
