@@ -1,20 +1,19 @@
-# Tutorial-HTML
-Tutorial HTML
+# 📚 Tutorial-HTML
+Este é um tutorial de HTML criado pelo desenvolvedor Bruno Back
 
 ##
 
 ### 👉 Aprenda a codificar
 
-Com o desenvolvedor Bruno Back
 ##
 ### 💬 Introdução
-Neste tutorial iremos aprender a linguagem de marcação HTML (HyperText Markup Language) iremos utilizar o site W3Schools como referências e nos auxiliar no desenvolvimento de uma página HTML, neste tutorial iremos ver de uma maneira breve o esqueleto basico para uma página simples.
+Neste tutorial iremos aprender a linguagem de marcação HTML (HyperText Markup Language) iremos utilizar o site W3Schools como referências e nos auxiliar no desenvolvimento de uma página HTML, neste tutorial iremos ver de uma maneira breve o esqueleto básico para uma página simples.
 ##
 ### ✔ Primeiramente veremos o que é HTML
 
 HTML (abreviação para a expressão inglesa HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto") é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.
 
-HyTime é um padrão para a representação estruturada de hipermídia e conteúdo baseado em tempo. Um documento é visto como um conjunto de eventos concorrentes dependentes de tempo (como áudio, vídeo, etc.), conectados por hiperligações (em inglês: hyperlink e link). O padrão é independente de outros padrões de processamento de texto em geral.
+HyTime é um padrão para a representação estruturada de hipermídia e conteúdo baseado em tempo. Um documento é visto como um conjunto de eventos concorrentes dependentes de tempo (como áudio, vídeo, etc.), conectados por hiper ligações (em inglês: hyperlink e link). O padrão é independente de outros padrões de processamento de texto em geral.
 
 SGML é um padrão de formatação de textos. Não foi desenvolvido para hipertexto, mas tornou-se conveniente para transformar documentos em hiper-objetos e para descrever as ligações.
 ##
@@ -26,7 +25,7 @@ A estrutura básica de um documento HTML (Hyper Text Markup Language - Linguagem
   <!DOCTYPE html>
   <html>
   <head>
-  <title>Titulo da página</title>
+  <title>Título da página</title>
   </head>
   <body>
 
@@ -38,12 +37,12 @@ A estrutura básica de um documento HTML (Hyper Text Markup Language - Linguagem
 ```
 ##
 ### 📁 O que fazer com esse código?
-Você code copiar este código HTML e colar em um bloco de notas e salvar com o nome "index.html" em uma pasta.
-Depois de salvar este arquivo na pasta que você criou, ao acessar está pasta você vai notar que foi criado um arquivo index com o simbolo do seu browser (Navegador da internet) que você usa para acessar a internet.
-Quando você der 2 clique no index.html você vai ver a sua primeira página da internet, porem não vai estar no ar e sim vai rodar somente no seu navegador.
+Você pode copiar este código HTML e colar em um bloco de notas e salvar com o nome "index.html" em uma pasta.
+Depois de salvar este arquivo na pasta que você criou, ao acessar esta pasta você vai notar que foi criado um arquivo index com o símbolo do seu browser (Navegador da internet) que você usa para acessar a internet.
+Quando você der 2 clique no index.html você vai ver a sua primeira página da internet, porém não vai estar no ar e sim vai rodar somente no seu navegador.
 ##
 ### 🌐 Como publicar este código na internet?
-Para colocar no ar este arquivo você precisa hospedar ele em um servidor web. Exitem varias maneiras para você publicar, você pode publicar aqui mesmo no GitHub com uma hospedagem grátis no GuitHub Pages, pode hospedar tambem em servidores que oferecem domínios gratuitos como WordPress.com, wix, google sites, entreoutros. Mas a forma mais utilizada para hospedar um projeto de um site para fins comercias você precisa primeiro escolher um domínio na internet.
+Para colocar no ar este arquivo você precisa hospedar ele em um servidor web. Existem várias maneiras para você publicar, você pode publicar aqui mesmo no GitHub com uma hospedagem grátis no GitHub Pages, pode se hospedar também em servidores que oferecem domínios gratuitos como WordPress.com, wix, google sites, entre outros. Mas a forma mais utilizada para hospedar um projeto de um site para fins comerciais, você precisa primeiro escolher um domínio na internet.
 O Domínio nada mais é que o nome do seu site.
 
 Por exemplo:
@@ -55,11 +54,11 @@ Você pode comprar seu dóminio no site do registro.br
 
 ``` registro.br ```
 
-Ao adiquirir o seu domínio ".com" ou ".com.br" você precisa escolher alguma empresa de hospedagem e contartar um plano de hospedagem. Por exemplo a KingHost que você pode encontrar os planos para hospedar o seu site aqui no link abaixo:
+Ao adquirir o seu domínio ".com" ou ".com.br" você precisa escolher alguma empresa de hospedagem e contratar um plano de hospedagem. Por exemplo a KingHost que você pode encontrar os planos para hospedar o seu site aqui no link abaixo:
 
  https://king.host?ref=520C1A4306926
 
-Mas isso é assunto para um outro tutorial, neste estamos falando sobre o HTML e como que ele funciona.
+Mas isso é assunto para um outro tutorial, neste estamos falando sobre o HTML e como ele funciona.
 ##
 ### 💫 Retomando ao tutorial do HTML 
 
@@ -83,7 +82,7 @@ A ``` <!DOCTYPE html> ``` declaração define que este documento é um documento
 
 O ``` <html> ``` elemento é o elemento raiz de uma página HTML
 
-O ``` <head> ``` elemento contém metainformações sobre a página HTML
+O ``` <head> ``` elemento contém meta informações sobre a página HTML
 
 O ``` <title> ``` elemento especifica um título para a página HTML (que é mostrado na barra de título do navegador ou na guia da página)
 
@@ -95,8 +94,14 @@ O ``` <p> ``` elemento define um parágrafo
 
 ##
 
-### 📚 Para que este tutorial não ficar muito longo e cansativo iremos terminar por aqui, com estas informações você vai conseguir criar sua primeira página e poder treinar esta estrutura basica. No próximo tutorial falaremos de mais Tags HTML e sobre o CSS que é um mecanismo para adicionar estilos a uma página web. 
+### 📚 Para que este tutorial não fique muito longo e cansativo iremos terminar por aqui, com estas informações você vai conseguir criar sua primeira página e poder treinar esta estrutura básica. No próximo tutorial falaremos de mais Tags HTML e sobre o CSS que é um mecanismo para adicionar estilos a uma página web. 
 Procure estudar e saber mais sobre HTML, por outras fontes para ampliar e melhorar seu conhecimento desta linguagem de marcação padrão para páginas da Web.
 ##
-### 💬 🌟 Se você gostou deste conteúdo deixe um comentário e não esqueça de marcar com uma estrelinha para me ajudar a criar mais conteúdo como este!
+### 💬 🌟 Se você gostou deste conteúdo siga-me nas redes sociais e deixe um comentário neste tutorial, não esqueça também de marcar com uma estrelinha para me ajudar na criação de mais conteúdo como este!
+
+<a href="https://www.facebook.com/bruno.back.562" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/bruno.back84" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 ## 
+
+
