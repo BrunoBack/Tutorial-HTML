@@ -20,15 +20,17 @@ SGML é um padrão de formatação de textos. Não foi desenvolvido para hiperte
 Estrutura básica de um documento
 A estrutura básica de um documento HTML (Hyper Text Markup Language - Linguagem de Marcação de Hypertexto), apresenta as seguintes marcações:
 
-#  <!DOCTYPE html>
-#  <html>
-#  <head>
-#  <title>Page Title</title>
-#  </head>
-#  <body>
-#
-#  <h1>My First Heading</h1>
-#  <p>My first paragraph.</p>
-#
-#  </body>
-#  </html>
+  <!DOCTYPE html>
+  
+  <html>
+  
+  <head>
+  <title>Page Title</title>
+  </head>
+  <body>
+
+  <h1>My First Heading</h1>
+  <p>My first paragraph.</p>
+
+  </body>
+  </html>
