@@ -21,9 +21,7 @@ Estrutura básica de um documento
 A estrutura básica de um documento HTML (Hyper Text Markup Language - Linguagem de Marcação de Hypertexto), apresenta as seguintes marcações:
 
 ```  <!DOCTYPE html>
-  
   <html>
-  
   <head>
   <title>Page Title</title>
   </head>
