@@ -35,3 +35,8 @@ A estrutura básica de um documento HTML (Hyper Text Markup Language - Linguagem
   </body>
   </html> 
 ```
+Você code copiar este código HTML e colar em um bloco de notas e salvar com o nome "index.html" em uma pasta.
+Depois de salvar este arquivo na pasta que você criou, ao acessar está pasta você vai notar que foi criado um arquivo index com o simbolo do seu browser (Navegador da internet) que você usa para acessar a internet.
+Quando você der 2 clique no index.html você vai ver a sua primeira página da internet, porem não vai estar no ar e sim vai rodar somente no seu navegador.
+
+Para colocar no ar este arquivo você precisa hospedar ela em um servidor web.
