@@ -97,3 +97,6 @@ O ``` <p> ``` elemento define um parágrafo
 
 ### 📚 Para que este tutorial não ficar muito longo e cansativo iremos terminar por aqui, com estas informações você vai conseguir criar sua primeira página e poder treinar esta estrutura basica. No próximo tutorial falaremos de mais Tags HTML e sobre o CSS que é um mecanismo para adicionar estilos a uma página web. 
 Procure estudar e saber mais sobre HTML, por outras fontes para ampliar e melhorar seu conhecimento desta linguagem de marcação padrão para páginas da Web.
+##
+### 💬 🌟 Se você gostou deste conteúdo deixe um comentário e não esqueça de marcar com uma estrelinha para me ajudar a criar mais conteúdo como este!
+## 
