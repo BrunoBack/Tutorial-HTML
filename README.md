@@ -25,12 +25,12 @@ A estrutura básica de um documento HTML (Hyper Text Markup Language - Linguagem
   <!DOCTYPE html>
   <html>
   <head>
-  <title>Page Title</title>
+  <title>Titulo da página</title>
   </head>
   <body>
 
-  <h1>My First Heading</h1>
-  <p>My first paragraph.</p>
+  <h1>Meu primeiro título</h1>
+  <p>Meu primeiro parágrafo.</p>
 
   </body>
   </html> 
