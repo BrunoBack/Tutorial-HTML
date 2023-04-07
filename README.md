@@ -1,5 +1,5 @@
 # 📚 Tutorial-HTML
-Este é um tutorial de HTML criado pelo desenvolvedor Bruno Back
+Este é um tutorial de HTML foi criado pelo desenvolvedor Bruno Back
 
 ##
 
