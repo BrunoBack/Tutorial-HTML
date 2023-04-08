@@ -65,4 +65,9 @@ A tag form é usada para criar o formulário, e a tag input é usada para criar 
 Essas são apenas algumas das tags HTML mais comuns. Existem muitas outras tags que podem ser usadas para definir o conteúdo de uma página da web.
 É importante entender como essas tags funcionam para poder criar páginas da web eficazes e bem estruturadas.
 ##
+### 💬 🌟 Se você gostou deste conteúdo siga-me nas redes sociais e deixe um comentário neste tutorial, não esqueça também de marcar com uma estrelinha para me ajudar na criação de mais conteúdo como este!
+
+<a href="https://www.facebook.com/bruno.back.562" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/bruno.back84" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+##
 #tutorial #html #webdesigner #frontend
