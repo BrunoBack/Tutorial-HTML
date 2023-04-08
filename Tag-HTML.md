@@ -40,7 +40,7 @@ A tag ul é usada para criar uma lista não ordenada, ol para uma lista ordenada
 </ul>
 ```
 ##
-### Tabelas (table, tr, td)
+###  Tabelas (table, tr, td)
 As tags de tabela (table, tr, td) são usadas para criar tabelas em uma página. 
 A tag table é usada para criar a tabela, tr para cada linha e td para cada célula da tabela. Por exemplo:
 ```
