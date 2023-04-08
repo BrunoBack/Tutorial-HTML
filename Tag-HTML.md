@@ -30,7 +30,7 @@ A tag de link (a) é usada para criar links em uma página. Ela requer um atribu
 <a href="https://www.example.com">Clique aqui</a>
 ```
 ##
-### Listas (ul, ol, li)
+### 📜 Listas (ul, ol, li)
 As tags de lista (ul, ol, li) são usadas para criar listas em uma página. 
 A tag ul é usada para criar uma lista não ordenada, ol para uma lista ordenada e li para cada item da lista. Por exemplo:
 ```
