@@ -1,9 +1,9 @@
-### Tags HTML
+### 📚 Tags HTML
 Tags HTML são elementos que definem a estrutura e o conteúdo de uma página da web. Cada tag é representada por um nome dentro de sinais de menor e maior (<>), e pode conter atributos que fornecem informações adicionais sobre a tag.
 
 Existem várias tags HTML que são comuns em muitas páginas da web. Aqui estão algumas das tags mais importantes e como elas são usadas:
 ##
-### Títulos (h1-h6)
+### 📰 Títulos (h1-h6)
 As tags de título (h1-h6) são usadas para definir os títulos de uma página. O h1 é o título principal, e o h6 é o título menos importante. Por exemplo:
 ```
 <h1>Título principal</h1>
@@ -11,20 +11,20 @@ As tags de título (h1-h6) são usadas para definir os títulos de uma página. 
 <h3>Outro subtítulo</h3>
 ```
 ##
-### Parágrafos (p)
+### 🧾 Parágrafos (p)
 
 A tag de parágrafo (p) é usada para definir o texto em um parágrafo. Por exemplo:
 ```
 <p>Este é um parágrafo de exemplo.</p>
 ```
 ##
-### Imagens (img)
+### 🖼 Imagens (img)
 A tag de imagem (img) é usada para inserir imagens em uma página. Ela requer um atributo src que especifica o caminho para a imagem. Por exemplo:
 ```
 <img src="imagem.jpg" alt="Descrição da imagem">
 ```
 ##
-### Links (a)
+### 🔗 Links (a)
 A tag de link (a) é usada para criar links em uma página. Ela requer um atributo href que especifica o URL do link. Por exemplo:
 ```
 <a href="https://www.example.com">Clique aqui</a>
