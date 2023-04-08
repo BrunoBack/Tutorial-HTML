@@ -40,7 +40,7 @@ A tag ul é usada para criar uma lista não ordenada, ol para uma lista ordenada
 </ul>
 ```
 ##
-###  Tabelas (table, tr, td)
+### 📅 Tabelas (table, tr, td)
 As tags de tabela (table, tr, td) são usadas para criar tabelas em uma página. 
 A tag table é usada para criar a tabela, tr para cada linha e td para cada célula da tabela. Por exemplo:
 ```
@@ -52,7 +52,7 @@ A tag table é usada para criar a tabela, tr para cada linha e td para cada cél
 </table>
 ```
 ##
-### Formulários (form, input)
+###  Formulários (form, input)
 As tags de formulário (form, input) são usadas para criar formulários em uma página. 
 A tag form é usada para criar o formulário, e a tag input é usada para criar campos de entrada, como caixas de texto e botões de opção. Por exemplo:
 ```
